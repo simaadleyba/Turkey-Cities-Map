@@ -1,1 +1,8 @@
 beautifulsoup4==4.9.3
+requests
+pandas
+unidecode
+streamlit 
+streamlit_folium
+folium_static
+folium
