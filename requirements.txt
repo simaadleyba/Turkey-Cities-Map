@@ -4,5 +4,3 @@ pandas
 unidecode
 streamlit 
 streamlit_folium
-folium_static
-folium
