@@ -1,4 +1,6 @@
 # Import necessary libraries
+pip install beautifulsoup4
+
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
